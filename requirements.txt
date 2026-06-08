@@ -1,7 +1,0 @@
-streamlit
-googlemaps
-folium
-streamlit-folium
-polyline
-fpdf2
-python-dotenv
